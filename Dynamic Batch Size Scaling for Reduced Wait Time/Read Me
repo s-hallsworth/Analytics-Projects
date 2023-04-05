@@ -1,0 +1,4 @@
+A project that investigates how e parameters such as batchsize, number of epochs, and number of nodes influence the Distributed Learning training process. In this project 3 models are created.
+	1. Utilization prediction model (assuming no queueing)
+	2. Response time model (assiming M/M/1 queue)
+	3. Waiting time model  (assiming M/M/1 queue)
